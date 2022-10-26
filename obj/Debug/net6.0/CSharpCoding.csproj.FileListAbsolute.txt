@@ -1,0 +1,15 @@
+/Users/tugbayazici/CSharpCoding/bin/Debug/net6.0/CSharpCoding
+/Users/tugbayazici/CSharpCoding/bin/Debug/net6.0/CSharpCoding.deps.json
+/Users/tugbayazici/CSharpCoding/bin/Debug/net6.0/CSharpCoding.runtimeconfig.json
+/Users/tugbayazici/CSharpCoding/bin/Debug/net6.0/CSharpCoding.dll
+/Users/tugbayazici/CSharpCoding/bin/Debug/net6.0/CSharpCoding.pdb
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.csproj.AssemblyReference.cache
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.AssemblyInfoInputs.cache
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.AssemblyInfo.cs
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.csproj.CoreCompileInputs.cache
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.dll
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/refint/CSharpCoding.dll
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.pdb
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/CSharpCoding.genruntimeconfig.cache
+/Users/tugbayazici/CSharpCoding/obj/Debug/net6.0/ref/CSharpCoding.dll
